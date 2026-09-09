@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" markdown="1">
 
 <img src="https://avatars.githubusercontent.com/u/287112669?v=4" width="150" style="border-radius: 50%;">
 
@@ -22,9 +22,9 @@ I'm building practical cloud infrastructure projects using Terraform, GitHub, HC
 
 | Project | Live Website | Source Code |
 | :--- | :---: | :---: |
-| backend | No Page | [GitHub](${repo_value}) |
-| frontend | No Page | [GitHub](${repo_value}) |
-| infra | No Page | [GitHub](${repo_value}) |
+| backend | No Page | [GitHub](https://github.com/ccarpio-tech/backend.git) |
+| frontend | No Page | [GitHub](https://github.com/ccarpio-tech/frontend.git) |
+| infra | No Page | [GitHub](https://github.com/ccarpio-tech/infra.git) |
 
 ---
 
