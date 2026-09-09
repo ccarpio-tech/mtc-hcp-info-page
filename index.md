@@ -4,7 +4,7 @@
 
 # Christopher Carpio
 
-### Cloud Infrastructure • Terraform • AWS • Automation
+## Cloud Infrastructure • Terraform • AWS • Automation
 
 Building hands-on cloud projects and learning how to automate infrastructure through code.
 
