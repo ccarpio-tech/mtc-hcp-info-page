@@ -30,7 +30,7 @@ I'm building practical cloud infrastructure projects using Terraform, GitHub, HC
 
 <div align="center">
 
-### Built with Terraform
+## Built with Terraform
 
 This page and its repository list are managed automatically through Terraform and HCP Terraform.
 
